@@ -1,0 +1,122 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    color: #40514E;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 50px auto;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Merriweather', serif;
+    color: #66BFBF;
+    font-weight: normal ;
+    padding-bottom: 10px;
+}
+h3 {
+    font-family: 'EB Garamond', serif;
+    color: #11999E;
+}
+p {
+    margin-bottom: 0px;
+    line-height: 2;
+}
+.intro {
+    width: 40%;
+    margin: auto;
+}
+.top-container {
+    background-color: #f6e1e1;
+}
+.middle-container {
+    margin: 100px 0;
+}
+.pro {
+    text-decoration: underline;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 15rem;
+}
+.top-cloud {
+    position: relative;
+    left: 25rem;
+    margin-top: 40px;
+}
+img {
+    border-radius: 50%;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    
+}
+.footer-link {
+    color: #11999E;
+}
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.martial-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr {
+    width: 3%;
+    color: blue;
+    border: dotted  6px;
+    border-bottom: none;
+    margin: 100px auto;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.footer-link {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: #eaf6f6;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+}
+
+.btn {
+	background-color:#11cdd4;
+	border-radius:10px;
+	border:1px solid #119ae4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'EB Garamond', serif;
+	font-size:18px;
+	padding:15px 40px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+}
+.btn:hover {
+	background-color:#30e3cb;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
