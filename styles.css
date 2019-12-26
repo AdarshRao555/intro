@@ -48,6 +48,10 @@ p {
     left: 25rem;
     margin-top: 40px;
 }
+.mountain {
+	width: auto;
+	height: auto;
+}
 img {
     border-radius: 50%;
 }
